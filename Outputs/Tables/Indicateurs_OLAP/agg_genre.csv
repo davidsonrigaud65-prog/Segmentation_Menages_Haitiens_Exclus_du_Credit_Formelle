@@ -1,0 +1,3 @@
+﻿Genre,n_individus,revenu_median,revenu_moyen,revenu_std,taux_exclusion_financiere,taux_bancarise,taux_cin,taux_tontine,taux_mobile_money,taux_epargne_formelle,taux_credit_informel,taux_manque_argent,taux_telephone,taux_nif,taux_compte_bancaire,taux_planif_jamais
+Femme,2047,2756.0,3559.2931,3397.933,0.4846,0.1417,0.6532,0.4558,0.1163,0.1246,0.0694,0.6282,0.6043,0.2755,0.1417,0.3351
+Homme,1969,2737.0,3620.871,3494.6963,0.4794,0.1534,0.6521,0.3535,0.1239,0.1315,0.0701,0.6379,0.6155,0.2956,0.1534,0.3327

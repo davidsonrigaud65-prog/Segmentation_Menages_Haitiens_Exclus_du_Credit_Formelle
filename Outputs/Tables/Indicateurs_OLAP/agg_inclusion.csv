@@ -1,0 +1,5 @@
+﻿Niveau_Inclusion_Financiere,n_individus,revenu_median,revenu_moyen,revenu_std,taux_exclusion_financiere,taux_bancarise,taux_cin,taux_tontine,taux_mobile_money,taux_epargne_formelle,taux_credit_informel,taux_manque_argent,taux_telephone,taux_nif,taux_compte_bancaire,taux_planif_jamais
+Exclus financièrement,1936,2144.0,2809.8569,2292.9758,1.0,0.0,0.5961,0.4298,0.0992,0.0398,0.0837,0.656,0.5811,0.2541,0.0,0.3388
+Informel seulement,392,2756.0,3522.5306,3222.4777,0.0,0.0,0.6531,0.3954,0.1454,0.0459,0.0408,0.6276,0.6046,0.3265,0.0,0.3597
+Autre formel (non-bancaire),1096,3166.5,4094.4891,3934.9161,0.0,0.0,0.688,0.3887,0.1332,0.0365,0.0666,0.6268,0.6286,0.2984,0.0,0.3276
+Bancarisé,592,3934.0,5248.4679,4759.1698,0.0,1.0,0.772,0.3649,0.147,0.6402,0.049,0.5726,0.6723,0.3361,1.0,0.3125
